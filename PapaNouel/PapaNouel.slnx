@@ -1,3 +1,4 @@
 <Solution>
   <Project Path="PapaNouel/PapaNouel.csproj" />
+  <Project Path="PapaNouel_API/PapaNouel_API.csproj" Id="8d905c36-0be1-49e2-82d7-6d03423bed54" />
 </Solution>

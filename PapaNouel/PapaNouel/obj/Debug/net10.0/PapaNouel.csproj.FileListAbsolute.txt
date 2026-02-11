@@ -2,6 +2,7 @@ C:\Users\Administrateur\OneDrive - M2I\Depot Perso\TP papa nouel\PapaNouel\PapaN
 C:\Users\Administrateur\OneDrive - M2I\Depot Perso\TP papa nouel\PapaNouel\PapaNouel\obj\Debug\net10.0\PapaNouel.AssemblyInfoInputs.cache
 C:\Users\Administrateur\OneDrive - M2I\Depot Perso\TP papa nouel\PapaNouel\PapaNouel\obj\Debug\net10.0\PapaNouel.AssemblyInfo.cs
 C:\Users\Administrateur\OneDrive - M2I\Depot Perso\TP papa nouel\PapaNouel\PapaNouel\obj\Debug\net10.0\PapaNouel.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\OneDrive - M2I\Depot Perso\TP papa nouel\PapaNouel\PapaNouel\obj\Debug\net10.0\PapaNouel.sourcelink.json
 C:\Users\Administrateur\OneDrive - M2I\Depot Perso\TP papa nouel\PapaNouel\PapaNouel\bin\Debug\net10.0\PapaNouel.exe
 C:\Users\Administrateur\OneDrive - M2I\Depot Perso\TP papa nouel\PapaNouel\PapaNouel\bin\Debug\net10.0\PapaNouel.deps.json
 C:\Users\Administrateur\OneDrive - M2I\Depot Perso\TP papa nouel\PapaNouel\PapaNouel\bin\Debug\net10.0\PapaNouel.runtimeconfig.json

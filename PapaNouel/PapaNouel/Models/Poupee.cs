@@ -4,7 +4,7 @@ using System.Text;
 
 namespace PapaNouel.Models
 {
-    internal class Poupee : IJouet
+    class Poupee : IJouet
     {
         public string ObsolescenceProgramee()
         {

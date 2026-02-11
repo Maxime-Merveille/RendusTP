@@ -4,7 +4,7 @@ using System.Text;
 
 namespace PapaNouel.Models
 {
-    internal interface IJouet
+    public interface IJouet
     {
         public string Play();
 
