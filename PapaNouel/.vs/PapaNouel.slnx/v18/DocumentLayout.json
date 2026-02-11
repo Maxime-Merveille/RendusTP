@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrateur\\OneDrive - M2I\\Depot Perso\\TP papa nouel\\PapaNouel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9A525AE-DF88-4F28-83F2-F8C38F113D79}|PapaNouel\\PapaNouel.csproj|c:\\users\\administrateur\\onedrive - m2i\\depot perso\\tp papa nouel\\papanouel\\papanouel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9A525AE-DF88-4F28-83F2-F8C38F113D79}|PapaNouel\\PapaNouel.csproj|solutionrelative:papanouel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9A525AE-DF88-4F28-83F2-F8C38F113D79}|PapaNouel\\PapaNouel.csproj|c:\\users\\administrateur\\onedrive - m2i\\depot perso\\tp papa nouel\\papanouel\\papanouel\\decorator\\mensongedecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9A525AE-DF88-4F28-83F2-F8C38F113D79}|PapaNouel\\PapaNouel.csproj|solutionrelative:papanouel\\decorator\\mensongedecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9A525AE-DF88-4F28-83F2-F8C38F113D79}|PapaNouel\\PapaNouel.csproj|c:\\users\\administrateur\\onedrive - m2i\\depot perso\\tp papa nouel\\papanouel\\papanouel\\decorator\\rubandecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9A525AE-DF88-4F28-83F2-F8C38F113D79}|PapaNouel\\PapaNouel.csproj|solutionrelative:papanouel\\decorator\\rubandecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9A525AE-DF88-4F28-83F2-F8C38F113D79}|PapaNouel\\PapaNouel.csproj|c:\\users\\administrateur\\onedrive - m2i\\depot perso\\tp papa nouel\\papanouel\\papanouel\\decorator\\jouetdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9A525AE-DF88-4F28-83F2-F8C38F113D79}|PapaNouel\\PapaNouel.csproj|solutionrelative:papanouel\\decorator\\jouetdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9A525AE-DF88-4F28-83F2-F8C38F113D79}|PapaNouel\\PapaNouel.csproj|c:\\users\\administrateur\\onedrive - m2i\\depot perso\\tp papa nouel\\papanouel\\papanouel\\models\\ijouet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9A525AE-DF88-4F28-83F2-F8C38F113D79}|PapaNouel\\PapaNouel.csproj|solutionrelative:papanouel\\models\\ijouet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9A525AE-DF88-4F28-83F2-F8C38F113D79}|PapaNouel\\PapaNouel.csproj|c:\\users\\administrateur\\onedrive - m2i\\depot perso\\tp papa nouel\\papanouel\\papanouel\\observer\\iobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9A525AE-DF88-4F28-83F2-F8C38F113D79}|PapaNouel\\PapaNouel.csproj|solutionrelative:papanouel\\observer\\iobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9A525AE-DF88-4F28-83F2-F8C38F113D79}|PapaNouel\\PapaNouel.csproj|c:\\users\\administrateur\\onedrive - m2i\\depot perso\\tp papa nouel\\papanouel\\papanouel\\observer\\mailobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9A525AE-DF88-4F28-83F2-F8C38F113D79}|PapaNouel\\PapaNouel.csproj|solutionrelative:papanouel\\observer\\mailobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9A525AE-DF88-4F28-83F2-F8C38F113D79}|PapaNouel\\PapaNouel.csproj|c:\\users\\administrateur\\onedrive - m2i\\depot perso\\tp papa nouel\\papanouel\\papanouel\\observer\\smsobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9A525AE-DF88-4F28-83F2-F8C38F113D79}|PapaNouel\\PapaNouel.csproj|solutionrelative:papanouel\\observer\\smsobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9A525AE-DF88-4F28-83F2-F8C38F113D79}|PapaNouel\\PapaNouel.csproj|c:\\users\\administrateur\\onedrive - m2i\\depot perso\\tp papa nouel\\papanouel\\papanouel\\observer\\logobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9A525AE-DF88-4F28-83F2-F8C38F113D79}|PapaNouel\\PapaNouel.csproj|solutionrelative:papanouel\\observer\\logobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9A525AE-DF88-4F28-83F2-F8C38F113D79}|PapaNouel\\PapaNouel.csproj|c:\\users\\administrateur\\onedrive - m2i\\depot perso\\tp papa nouel\\papanouel\\papanouel\\factory\\bigfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9A525AE-DF88-4F28-83F2-F8C38F113D79}|PapaNouel\\PapaNouel.csproj|solutionrelative:papanouel\\factory\\bigfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9A525AE-DF88-4F28-83F2-F8C38F113D79}|PapaNouel\\PapaNouel.csproj|c:\\users\\administrateur\\onedrive - m2i\\depot perso\\tp papa nouel\\papanouel\\papanouel\\models\\poupee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9A525AE-DF88-4F28-83F2-F8C38F113D79}|PapaNouel\\PapaNouel.csproj|solutionrelative:papanouel\\models\\poupee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9A525AE-DF88-4F28-83F2-F8C38F113D79}|PapaNouel\\PapaNouel.csproj|c:\\users\\administrateur\\onedrive - m2i\\depot perso\\tp papa nouel\\papanouel\\papanouel\\models\\playstation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9A525AE-DF88-4F28-83F2-F8C38F113D79}|PapaNouel\\PapaNouel.csproj|solutionrelative:papanouel\\models\\playstation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9A525AE-DF88-4F28-83F2-F8C38F113D79}|PapaNouel\\PapaNouel.csproj|c:\\users\\administrateur\\onedrive - m2i\\depot perso\\tp papa nouel\\papanouel\\papanouel\\factory\\poupeefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9A525AE-DF88-4F28-83F2-F8C38F113D79}|PapaNouel\\PapaNouel.csproj|solutionrelative:papanouel\\factory\\poupeefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9A525AE-DF88-4F28-83F2-F8C38F113D79}|PapaNouel\\PapaNouel.csproj|c:\\users\\administrateur\\onedrive - m2i\\depot perso\\tp papa nouel\\papanouel\\papanouel\\factory\\jouetfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9A525AE-DF88-4F28-83F2-F8C38F113D79}|PapaNouel\\PapaNouel.csproj|solutionrelative:papanouel\\factory\\jouetfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9A525AE-DF88-4F28-83F2-F8C38F113D79}|PapaNouel\\PapaNouel.csproj|c:\\users\\administrateur\\onedrive - m2i\\depot perso\\tp papa nouel\\papanouel\\papanouel\\factory\\playstationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9A525AE-DF88-4F28-83F2-F8C38F113D79}|PapaNouel\\PapaNouel.csproj|solutionrelative:papanouel\\factory\\playstationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9A525AE-DF88-4F28-83F2-F8C38F113D79}|PapaNouel\\PapaNouel.csproj|c:\\users\\administrateur\\onedrive - m2i\\depot perso\\tp papa nouel\\papanouel\\papanouel\\factory\\nerfsfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9A525AE-DF88-4F28-83F2-F8C38F113D79}|PapaNouel\\PapaNouel.csproj|solutionrelative:papanouel\\factory\\nerfsfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9A525AE-DF88-4F28-83F2-F8C38F113D79}|PapaNouel\\PapaNouel.csproj|c:\\users\\administrateur\\onedrive - m2i\\depot perso\\tp papa nouel\\papanouel\\papanouel\\models\\nerfs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9A525AE-DF88-4F28-83F2-F8C38F113D79}|PapaNouel\\PapaNouel.csproj|solutionrelative:papanouel\\models\\nerfs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 416,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MensongeDecorator.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\OneDrive - M2I\\Depot Perso\\TP papa nouel\\PapaNouel\\PapaNouel\\Decorator\\MensongeDecorator.cs",
+              "RelativeDocumentMoniker": "PapaNouel\\Decorator\\MensongeDecorator.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\OneDrive - M2I\\Depot Perso\\TP papa nouel\\PapaNouel\\PapaNouel\\Decorator\\MensongeDecorator.cs",
+              "RelativeToolTip": "PapaNouel\\Decorator\\MensongeDecorator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T13:19:23.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RubanDecorator.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\OneDrive - M2I\\Depot Perso\\TP papa nouel\\PapaNouel\\PapaNouel\\Decorator\\RubanDecorator.cs",
+              "RelativeDocumentMoniker": "PapaNouel\\Decorator\\RubanDecorator.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\OneDrive - M2I\\Depot Perso\\TP papa nouel\\PapaNouel\\PapaNouel\\Decorator\\RubanDecorator.cs",
+              "RelativeToolTip": "PapaNouel\\Decorator\\RubanDecorator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T13:16:10.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JouetDecorator.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\OneDrive - M2I\\Depot Perso\\TP papa nouel\\PapaNouel\\PapaNouel\\Decorator\\JouetDecorator.cs",
+              "RelativeDocumentMoniker": "PapaNouel\\Decorator\\JouetDecorator.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\OneDrive - M2I\\Depot Perso\\TP papa nouel\\PapaNouel\\PapaNouel\\Decorator\\JouetDecorator.cs",
+              "RelativeToolTip": "PapaNouel\\Decorator\\JouetDecorator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T13:13:40.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MailObserver.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\OneDrive - M2I\\Depot Perso\\TP papa nouel\\PapaNouel\\PapaNouel\\Observer\\MailObserver.cs",
+              "RelativeDocumentMoniker": "PapaNouel\\Observer\\MailObserver.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\OneDrive - M2I\\Depot Perso\\TP papa nouel\\PapaNouel\\PapaNouel\\Observer\\MailObserver.cs",
+              "RelativeToolTip": "PapaNouel\\Observer\\MailObserver.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAvwBMAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T10:54:59.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IObserver.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\OneDrive - M2I\\Depot Perso\\TP papa nouel\\PapaNouel\\PapaNouel\\Observer\\IObserver.cs",
+              "RelativeDocumentMoniker": "PapaNouel\\Observer\\IObserver.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\OneDrive - M2I\\Depot Perso\\TP papa nouel\\PapaNouel\\PapaNouel\\Observer\\IObserver.cs",
+              "RelativeToolTip": "PapaNouel\\Observer\\IObserver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T10:54:30.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "NerfsFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\OneDrive - M2I\\Depot Perso\\TP papa nouel\\PapaNouel\\PapaNouel\\Factory\\NerfsFactory.cs",
+              "RelativeDocumentMoniker": "PapaNouel\\Factory\\NerfsFactory.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\OneDrive - M2I\\Depot Perso\\TP papa nouel\\PapaNouel\\PapaNouel\\Factory\\NerfsFactory.cs",
+              "RelativeToolTip": "PapaNouel\\Factory\\NerfsFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T10:43:30.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PoupeeFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\OneDrive - M2I\\Depot Perso\\TP papa nouel\\PapaNouel\\PapaNouel\\Factory\\PoupeeFactory.cs",
+              "RelativeDocumentMoniker": "PapaNouel\\Factory\\PoupeeFactory.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\OneDrive - M2I\\Depot Perso\\TP papa nouel\\PapaNouel\\PapaNouel\\Factory\\PoupeeFactory.cs",
+              "RelativeToolTip": "PapaNouel\\Factory\\PoupeeFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T10:43:16.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "JouetFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\OneDrive - M2I\\Depot Perso\\TP papa nouel\\PapaNouel\\PapaNouel\\Factory\\JouetFactory.cs",
+              "RelativeDocumentMoniker": "PapaNouel\\Factory\\JouetFactory.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\OneDrive - M2I\\Depot Perso\\TP papa nouel\\PapaNouel\\PapaNouel\\Factory\\JouetFactory.cs",
+              "RelativeToolTip": "PapaNouel\\Factory\\JouetFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T10:43:07.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Bigfactory.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\OneDrive - M2I\\Depot Perso\\TP papa nouel\\PapaNouel\\PapaNouel\\Factory\\Bigfactory.cs",
+              "RelativeDocumentMoniker": "PapaNouel\\Factory\\Bigfactory.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\OneDrive - M2I\\Depot Perso\\TP papa nouel\\PapaNouel\\PapaNouel\\Factory\\Bigfactory.cs",
+              "RelativeToolTip": "PapaNouel\\Factory\\Bigfactory.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBcAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T10:42:55.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Nerfs.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\OneDrive - M2I\\Depot Perso\\TP papa nouel\\PapaNouel\\PapaNouel\\Models\\Nerfs.cs",
+              "RelativeDocumentMoniker": "PapaNouel\\Models\\Nerfs.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\OneDrive - M2I\\Depot Perso\\TP papa nouel\\PapaNouel\\PapaNouel\\Models\\Nerfs.cs",
+              "RelativeToolTip": "PapaNouel\\Models\\Nerfs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T10:39:53.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\OneDrive - M2I\\Depot Perso\\TP papa nouel\\PapaNouel\\PapaNouel\\Program.cs",
+              "RelativeDocumentMoniker": "PapaNouel\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\OneDrive - M2I\\Depot Perso\\TP papa nouel\\PapaNouel\\PapaNouel\\Program.cs",
+              "RelativeToolTip": "PapaNouel\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAACkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T10:36:06.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LogObserver.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\OneDrive - M2I\\Depot Perso\\TP papa nouel\\PapaNouel\\PapaNouel\\Observer\\LogObserver.cs",
+              "RelativeDocumentMoniker": "PapaNouel\\Observer\\LogObserver.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\OneDrive - M2I\\Depot Perso\\TP papa nouel\\PapaNouel\\PapaNouel\\Observer\\LogObserver.cs",
+              "RelativeToolTip": "PapaNouel\\Observer\\LogObserver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T10:55:06.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Playstation.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\OneDrive - M2I\\Depot Perso\\TP papa nouel\\PapaNouel\\PapaNouel\\Models\\Playstation.cs",
+              "RelativeDocumentMoniker": "PapaNouel\\Models\\Playstation.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\OneDrive - M2I\\Depot Perso\\TP papa nouel\\PapaNouel\\PapaNouel\\Models\\Playstation.cs",
+              "RelativeToolTip": "PapaNouel\\Models\\Playstation.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAvwBIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T10:39:35.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IJouet.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\OneDrive - M2I\\Depot Perso\\TP papa nouel\\PapaNouel\\PapaNouel\\Models\\IJouet.cs",
+              "RelativeDocumentMoniker": "PapaNouel\\Models\\IJouet.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\OneDrive - M2I\\Depot Perso\\TP papa nouel\\PapaNouel\\PapaNouel\\Models\\IJouet.cs",
+              "RelativeToolTip": "PapaNouel\\Models\\IJouet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T10:37:35.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SMSObserver.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\OneDrive - M2I\\Depot Perso\\TP papa nouel\\PapaNouel\\PapaNouel\\Observer\\SMSObserver.cs",
+              "RelativeDocumentMoniker": "PapaNouel\\Observer\\SMSObserver.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\OneDrive - M2I\\Depot Perso\\TP papa nouel\\PapaNouel\\PapaNouel\\Observer\\SMSObserver.cs",
+              "RelativeToolTip": "PapaNouel\\Observer\\SMSObserver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T10:55:20.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PlaystationFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\OneDrive - M2I\\Depot Perso\\TP papa nouel\\PapaNouel\\PapaNouel\\Factory\\PlaystationFactory.cs",
+              "RelativeDocumentMoniker": "PapaNouel\\Factory\\PlaystationFactory.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\OneDrive - M2I\\Depot Perso\\TP papa nouel\\PapaNouel\\PapaNouel\\Factory\\PlaystationFactory.cs",
+              "RelativeToolTip": "PapaNouel\\Factory\\PlaystationFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T10:43:44.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Poupee.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\OneDrive - M2I\\Depot Perso\\TP papa nouel\\PapaNouel\\PapaNouel\\Models\\Poupee.cs",
+              "RelativeDocumentMoniker": "PapaNouel\\Models\\Poupee.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\OneDrive - M2I\\Depot Perso\\TP papa nouel\\PapaNouel\\PapaNouel\\Models\\Poupee.cs",
+              "RelativeToolTip": "PapaNouel\\Models\\Poupee.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAvwA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T10:39:24.143Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
